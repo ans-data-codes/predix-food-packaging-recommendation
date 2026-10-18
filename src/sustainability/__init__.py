@@ -1,0 +1,1 @@
+"""Sustainability analysis interfaces."""
